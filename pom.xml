@@ -50,7 +50,7 @@
 								<argument>/amd64</argument>
                                 <argument>"${basedir}/target/app.one-jar.jar"</argument>
                                 <argument>/o</argument>
-                                <argument>"${basedir}/app64.exe"</argument>
+                                <argument>"${basedir}/target/app64.exe"</argument>
                                 <argument>/m</argument>
                                 <argument>${mainClass}</argument>
                                 <argument>/target</argument>
@@ -81,7 +81,7 @@
 								<argument>/jar</argument>
 								<argument>"${basedir}/target/app.one-jar.jar"</argument>
 								<argument>/o</argument>
-								<argument>"${basedir}/app.exe"</argument>
+								<argument>"${basedir}/target/app.exe"</argument>
 								<argument>/m</argument>
 								<argument>${mainClass}</argument>
 								<argument>/target</argument>
